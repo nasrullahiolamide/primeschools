@@ -84,4 +84,8 @@
         .divposition2{
             display: none;
         }
+
+        .images{
+            width: 100%;
+        }
     }
