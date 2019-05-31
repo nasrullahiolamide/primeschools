@@ -80,7 +80,6 @@
         
     }
 
-<<<<<<< HEAD
     @media (max-width: 500px) {
         .divposition2{
             display: none;
@@ -90,10 +89,3 @@
             width: 100%;
         }
     }
-=======
-@media (max-width: 500px){
-    .divposition2{
-        display: none;
-    }
-}
->>>>>>> 9413c802dc7d8867080a98c37dbcca264e82e6e7
